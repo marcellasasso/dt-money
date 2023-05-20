@@ -1,0 +1,100 @@
+{
+  "transactions": [
+    {
+      "description": "Salário",
+      "price": 9500,
+      "category": "Salário",
+      "type": "income",
+      "createdAt": "2023-01-03T01:50:58.726Z",
+      "id": 1
+    },
+    {
+      "description": "Imposto",
+      "price": 608,
+      "category": "Imposto",
+      "type": "outcome",
+      "createdAt": "2023-01-03T01:51:53.081Z",
+      "id": 2
+    },
+    {
+      "description": "Emprestimo",
+      "price": 269,
+      "category": "Emprestimo",
+      "type": "outcome",
+      "createdAt": "2023-01-03T01:52:45.961Z",
+      "id": 3
+    },
+    {
+      "description": "bmg fatura",
+      "price": 290,
+      "category": "fatura bmg",
+      "type": "outcome",
+      "createdAt": "2023-01-03T01:53:45.309Z",
+      "id": 4
+    },
+    {
+      "description": "mercado pago",
+      "price": 597,
+      "category": "mercado pago",
+      "type": "outcome",
+      "createdAt": "2023-01-03T01:54:39.529Z",
+      "id": 5
+    },
+    {
+      "description": "claro",
+      "price": 136,
+      "category": "claro",
+      "type": "outcome",
+      "createdAt": "2023-01-03T01:56:29.895Z",
+      "id": 6
+    },
+    {
+      "description": "addi",
+      "price": 152,
+      "category": "addi",
+      "type": "outcome",
+      "createdAt": "2023-01-03T01:57:24.640Z",
+      "id": 7
+    },
+    {
+      "description": "casa/boleto",
+      "price": 2100,
+      "category": "casa/boleto",
+      "type": "outcome",
+      "createdAt": "2023-01-03T02:03:27.992Z",
+      "id": 8
+    },
+    {
+      "description": "fatura nubank/inter",
+      "price": 1586,
+      "category": "fatura nubank/inter",
+      "type": "outcome",
+      "createdAt": "2023-01-03T02:06:47.281Z",
+      "id": 9
+    },
+    {
+      "description": "Raphael me deve",
+      "price": 400,
+      "category": "Raphael me deve",
+      "type": "income",
+      "createdAt": "2023-01-03T02:08:27.540Z",
+      "id": 10
+    },
+    {
+      "description": "picpay fatura",
+      "price": 71,
+      "category": "picpay fatura",
+      "type": "outcome",
+      "createdAt": "2023-01-03T02:08:46.259Z",
+      "id": 11
+    },
+    {
+      "description": "imposto",
+      "price": 570,
+      "category": "imposto",
+      "type": "outcome",
+      "createdAt": "2023-01-03T02:09:43.601Z",
+      "id": 12
+    }
+  ]
+}
